@@ -1,0 +1,12 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.Form1.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\bin\Debug\SalarioLiquido.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\bin\Debug\SalarioLiquido.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\bin\Debug\SalarioLiquido.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.Tela2.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\04 - April\SalarioLiquido\obj\Debug\SalarioLiquido.Form2.resources

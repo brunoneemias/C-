@@ -1,0 +1,10 @@
+C:\Users\Fsociety\source\repos\ImparesAndpares\bin\Debug\ImparesAndpares.exe.config
+C:\Users\Fsociety\source\repos\ImparesAndpares\bin\Debug\ImparesAndpares.exe
+C:\Users\Fsociety\source\repos\ImparesAndpares\bin\Debug\ImparesAndpares.pdb
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.csprojAssemblyReference.cache
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.formPar.resources
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.Properties.Resources.resources
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.csproj.GenerateResource.cache
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.exe
+C:\Users\Fsociety\source\repos\ImparesAndpares\obj\Debug\ImparesAndpares.pdb

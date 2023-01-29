@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.Form1.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\05 - May\07-05\Fatorial\obj\Debug\Fatorial.pdb
