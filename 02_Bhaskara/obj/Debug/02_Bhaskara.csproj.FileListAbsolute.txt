@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\bin\Debug\02_Bhaskara.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\bin\Debug\02_Bhaskara.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\bin\Debug\02_Bhaskara.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\02_Bhaskara.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\_02_Bhaskara.Bhaskara.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\_02_Bhaskara.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\02_Bhaskara.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\02_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\02_Bhaskara.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\02_Bhaskara\obj\Debug\02_Bhaskara.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\bin\Debug\01_Descontar_cheques.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\bin\Debug\01_Descontar_cheques.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\bin\Debug\01_Descontar_cheques.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\01_Descontar_cheques.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\_01_Descontar_cheques.Contas.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\_01_Descontar_cheques.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\01_Descontar_cheques.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\01_Descontar_cheques.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\01_Descontar_cheques.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\12-03\01_Descontar_cheques\obj\Debug\01_Descontar_cheques.pdb
