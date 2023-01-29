@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\bin\Debug\05_Nadador.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\bin\Debug\05_Nadador.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\bin\Debug\05_Nadador.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\05_Nadador.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\_05_Nadador.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\05_Nadador.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\05_Nadador.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\05_Nadador.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\05_Nadador.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\05_Nadador\05_Nadador\obj\Debug\_05_Nadador.Nadador.resources

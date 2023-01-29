@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\bin\Debug\04_IMC.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\bin\Debug\04_IMC.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\bin\Debug\04_IMC.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\04_IMC.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\_04_IMC.Form1.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\_04_IMC.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\04_IMC.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\04_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\04_IMC.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\04_IMC\04_IMC\obj\Debug\04_IMC.pdb

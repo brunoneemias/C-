@@ -1,0 +1,10 @@
+C:\Users\Fsociety\source\repos\06_ImparOrPar\bin\Debug\06_ImparOrPar.exe.config
+C:\Users\Fsociety\source\repos\06_ImparOrPar\bin\Debug\06_ImparOrPar.exe
+C:\Users\Fsociety\source\repos\06_ImparOrPar\bin\Debug\06_ImparOrPar.pdb
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\06_ImparOrPar.csprojAssemblyReference.cache
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\_06_ImparOrPar.ImparorPar.resources
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\_06_ImparOrPar.Properties.Resources.resources
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\06_ImparOrPar.csproj.GenerateResource.cache
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\06_ImparOrPar.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\06_ImparOrPar.exe
+C:\Users\Fsociety\source\repos\06_ImparOrPar\obj\Debug\06_ImparOrPar.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\bin\Debug\03_Maior_Menor.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\bin\Debug\03_Maior_Menor.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\bin\Debug\03_Maior_Menor.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\03_Maior_Menor.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\_03_Maior_Menor.Form1.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\_03_Maior_Menor.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\03_Maior_Menor.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\03_Maior_Menor.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\03_Maior_Menor.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\03_MaiorMenosMenor\03_Maior_Menor\obj\Debug\03_Maior_Menor.pdb
