@@ -1,0 +1,10 @@
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\bin\Debug\02_MaioreMenor.exe.config
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\bin\Debug\02_MaioreMenor.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\bin\Debug\02_MaioreMenor.pdb
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\02_MaioreMenor.csprojAssemblyReference.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\_02_MaioreMenor.Form1.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\_02_MaioreMenor.Properties.Resources.resources
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\02_MaioreMenor.csproj.GenerateResource.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\02_MaioreMenor.csproj.CoreCompileInputs.cache
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\02_MaioreMenor.exe
+C:\Users\Fsociety\OneDrive\Documents\Courses\System development technician\Module 2\Desenvolvimento de sistemas\03 - March\05-03\Activity\02_MaioreMenor\02_MaioreMenor\obj\Debug\02_MaioreMenor.pdb
